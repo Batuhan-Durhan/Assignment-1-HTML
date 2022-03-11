@@ -4,12 +4,12 @@
 */
 
 body {
-background-color: green;
+ background-color: green;
 }
 
 h1 {
-background-color: #ff0000;
-color: hsl(147, 50%, 47%);
-padding: 20px;
-text-align: center;
+ background-color: #ff0000;
+ color: hsl(147, 50%, 47%);
+ padding: 20px;
+ text-align: center;
 }
